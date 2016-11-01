@@ -23,10 +23,12 @@ Alternatively Load ascii doctor image from tar file
 
 ### On Linux
 
+ cd doc
  make
 
 ### On Windows
 
+ co doc
  ./start.sh
  
 once the docker images is started run make
