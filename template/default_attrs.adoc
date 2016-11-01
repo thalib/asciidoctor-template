@@ -1,0 +1,14 @@
+:hardbreaks:
+:logotitle: Company Name
+:title_address: : North West Building, \
+		: 1000th Floor, \
+		: Binary Estate, Guindy, \
+		: TPI - 611110, India
+:showtitle:
+:icons: font
+:listing-caption: Listing
+:sectnums:
+:date:
+:source-highlighter: pygments
+:toc:
+:toclevels: 4
